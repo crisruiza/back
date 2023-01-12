@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Mahogany Balsam",
+    "description": "El aroma de bayas de enebro, bálsamo fresco y madera de caoba, en nuestra vela de 3 pabilos con aceites esenciales naturales, que llena la habitación.",
+    "price": 419.4,
+    "img": "https://bathbodymx.vteximg.com.br/arquivos/ids/166192-650-709/26355257-1.jpg?v=638011283729470000",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Vanilla Sugar",
+    "description": "Aroma embriagador de vainilla, orquídea blanca, azúcar espumoso, jazmín fresco y sándalo cremoso, en la fragancia de nuestra vela de 3 pabilos con aceites esenciales.",
+    "price": 419.4,
+    "img": "https://bathbodymx.vteximg.com.br/arquivos/ids/160942-650-709/26169435-1.jpg?v=637457264174200000",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Pink Shores",
+    "description": "Un dulce salón junto al mar que ofrece una increíble experiencia de fragancia que llena la habitación más grande. Increíble calidad de principio a fin garantizada.",
+    "price": 419.4,
+    "img": "https://bathbodymx.vteximg.com.br/arquivos/ids/165137-650-709/26467633-1.jpg?v=637920435733030000",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Peach Bellini",
+    "description": "El aroma de suculento melocotón blanco, prosecco espumoso y naranja dulce, en nuestra vela de 3 pabilos con aceites esenciales naturales, que llena la habitación.",
+    "price": 699,
+    "img": "https://bathbodymx.vteximg.com.br/arquivos/ids/163744-650-709/26291257-1.jpg?v=637777006273570000",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Frosted Cranberry",
+    "description": "El aroma de arándanos helados, maderas rubias, manzana roja y haba tonka, en nuestra vela de 3 pabilos con aceites esenciales naturales, que llena la habitación.",
+    "price": 419.4,
+    "img": "https://bathbodymx.vteximg.com.br/arquivos/ids/166205-650-709/26355223-1.jpg?v=638011283836670000",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Winter Cabin",
+    "description": "El aroma de brisa invernal, pimienta negra, ámbar cálido y cedro, en nuestra vela de 3 pabilos con aceites esenciales naturales, que llena la habitación.",
+    "price": 419.4,
+    "img": "https://bathbodymx.vteximg.com.br/arquivos/ids/166196-650-709/26355261-1.jpg?v=638011283773300000",
+    "active": true
+  }
+]
